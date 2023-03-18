@@ -40,7 +40,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
-- [gist repo link](#gist repo link)
+- [Gist repo link](#gist repo link)
 
 ## Regex Components
 
@@ -118,6 +118,6 @@ Flag is `/` and it means to create a regex between the slashes. As it is seen at
 
 - `(?<=f)g` means only `g` preceded by f matches. For example, g in `g`f matches but f is not included in the match.
 
-### gist repo link
+### Gist repo link
 
 -https://gist.github.com/7eead94b2a3e25ee18760e9b82ea3706.git
