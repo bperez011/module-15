@@ -120,4 +120,4 @@ Flag is `/` and it means to create a regex between the slashes. As it is seen at
 
 ### gist repo link
 
-@
+-https://gist.github.com/7eead94b2a3e25ee18760e9b82ea3706.git
