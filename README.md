@@ -40,6 +40,7 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 - [Boundaries](#boundaries)
 - [Back-references](#back-references)
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [gist repo link](#gist repo link)
 
 ## Regex Components
 
